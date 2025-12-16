@@ -41,8 +41,7 @@ The effectiveness of the attacks was measured using the following metrics:
 -   `QwenChat.py`: A wrapper class for the `Qwen/Qwen2.5-VL-3B-Instruct` model.
 -   `ImageAdversarialAttack.py`: Implements the GA for the image-based attack.
 -   `TextAdversarialAttack.py`: Implements the GA for the text-based attack.
--   `Cusin Lorenzo - Report.pdf`: A detailed report on the project, methodology, and results.
--   
+-   `Report.pdf`: A detailed report on the project, methodology, and results.
 
 ---
 
